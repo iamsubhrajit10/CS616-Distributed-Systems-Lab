@@ -20,7 +20,7 @@ Design a distributed calculator service using a client-server model hosted on Do
 A functional and containerized calculator service with example client interactions.
 
 ## Reference Image
-![Distributed Calculator Service](./lab_02.drawio.png)
+![Distributed Calculator Service](./Distributed-Calculator-Service.png)
 
 ### Probable Project Structure
 
